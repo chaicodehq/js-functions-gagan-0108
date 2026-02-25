@@ -45,7 +45,7 @@
  *   pricer("gold", true)  // => 200 * 1.5 * 1.3 = 390
  */
 export function createDialogueWriter(genre) {
-  // Your code here
+  
 }
 
 export function createTicketPricer(basePrice) {
